@@ -9,7 +9,7 @@ Repositório usado como treinamento de construção de arquivos markdown como RE
 
 ## 🖥Resumo das Aulas
 
-| Aulas | Resumos |
+| Aulas | Resumo |
 |-------|---------|
 | Gravando alterações no Repositório Local | [Resumos](www.google.com)
 
